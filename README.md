@@ -15,6 +15,8 @@ _20 TILs and counting..._
 
 ### Firebase (Coming Soon)
 
+### Automation using Zapier & Other Apps (Coming Soon)
+
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first

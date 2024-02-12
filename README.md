@@ -1,29 +1,18 @@
 ﻿# Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
+A collection of concise write-ups on small things I learn day to day across a variety of languages, technologies and life in general.
 
-Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
-
-_20 TILs and counting..._
+_1 Article and counting..._
 
 ---
-### Swift (Coming Soon)
 
-### iOS Development (Coming Soon)
+### Categories
 
-### Books' Review (Coming Soon)
-
-### Firebase (Coming Soon)
-
-### Automation using Zapier & Other Apps (Coming Soon)
+* [.Net MAUI](#maui)
 
 ---
-## Inspiration
-Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and first
-learned from
-[7 Habits I Wish Every (Junior) Programmer Should Have](https://medium.com/@shekhargulati/7-habits-i-wish-every-junior-programmer-should-have-d0d6d8a972c9#.s4lq904g9).
 
-## Contributing
+### .Net MAUI
+- [Dependency Injection in .Net MAUI app (in 3 simple steps)](https://gist.github.com/iMemon/213172bc34e693f2390f09cca31e29e7)
 
-The best way you can contribute is to support the idea of keeping track of things you learned. Just create a public repo and start writing and sharing notes. This is way better than keeping them to yourself.
 
